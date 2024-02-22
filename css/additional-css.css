@@ -126,7 +126,7 @@ body#top.single-post .main_color.container_wrap_first {
 }
 .logo{margin-top: 15px;}
 .footer_color {
-    background: #fff url(//brad-mg.local/wp-content/uploads/2019/10/footer-map.png) top center no-repeat scroll !important;
+    background: #fff url("/wp-content/uploads/2019/10/footer-map.png") top center no-repeat scroll !important;
 }
 #footer section a {
   color: #000 !important;}
@@ -214,7 +214,7 @@ z-index: 1 !important;}
   margin-top: 0px !important;
   margin-right: 150px;
   display: block !important;
-  background: url("http://brad-mg.local/wp-content/uploads/2019/10/play-button.png");
+  background: url("/wp-content/uploads/2019/10/play-button.png");
   width: 193px !important;
   height: 43px !important;
   float: left;
@@ -595,7 +595,7 @@ margin-left: 0%!important;}
 .certified-speaking-professional .alpha.units{padding-bottom: 0px!important;}
   #testimonials-heading h2{text-align: center; font-size: 20px !important;}
   .av-fallback-message{display: none;}
-  #fullscreen_slider_1{background:url("http://brad-mg.local/wp-content/uploads/2019/04/video-banner.png");}
+  #fullscreen_slider_1{background:url("/wp-content/uploads/2019/04/video-banner.png");}
   .page-id-69 .hr-custom{display: none;}
 .brad-testimonial h1{font-size: 22px!important; margin: 0px;}
   .transformation-heading h2 {
@@ -838,7 +838,7 @@ a.avia-button {    color: #fff !important; font-size: 18px !important; font-weig
 
 .ul__content.ul-icon ul li {padding-left:34px !important; position: relative; }
 
-.ul__content.ul-icon ul li:before {    content: ""; position: absolute; left: 0; background: url(http://brad-mg.local/wp-content/uploads/2020/05/trajectory.png); background-repeat: no-repeat; width: 30px; height: 20px; background-size: 20px;}
+.ul__content.ul-icon ul li:before {    content: ""; position: absolute; left: 0; background: url("/wp-content/uploads/2020/05/trajectory.png"); background-repeat: no-repeat; width: 30px; height: 20px; background-size: 20px;}
 
 .full-width-image--text--section .template-page.content .entry-content-wrapper .text__content.close-the-gap h4 {margin: 30px 0 20px 0; font-weight: bold !important; color: #000 !important;}
 
@@ -863,7 +863,7 @@ a.avia-button {    color: #fff !important; font-size: 18px !important; font-weig
 
 .full-width-image--text--section .template-page.content .entry-content-wrapper .testimonial_content .avia-testimonial-wrapper .avia-testimonial .avia-testimonial-content img.alignnone {margin-top:28px; width: 150px; }
 
-.full-width-image--text--section .template-page.content .entry-content-wrapper .testimonial_content .avia-testimonial-wrapper .avia-testimonial .avia-testimonial-content:before {content: ""; position: absolute;top: 20px; left: -20px; background: url(./wp-content/uploads/2020/05/Path-33.png); background-repeat: no-repeat; width: 110px; height: 80px; background-size: 74px; z-index: -1;}
+.full-width-image--text--section .template-page.content .entry-content-wrapper .testimonial_content .avia-testimonial-wrapper .avia-testimonial .avia-testimonial-content:before {content: ""; position: absolute;top: 20px; left: -20px; background: url("/wp-content/uploads/2020/05/Path-33.png"); background-repeat: no-repeat; width: 110px; height: 80px; background-size: 74px; z-index: -1;}
 
 .full-width-image--text--section .template-page.content .entry-content-wrapper .testimonial_content {padding:130px 130px 130px 130px;}
 
@@ -959,22 +959,6 @@ div#footer {background: #ececec !important; padding: 40px 0 !important; border: 
 div#footer .container {display: flex; }
 
 div#footer .container:before,div#footer .container:after {display: none; }
-
-div#footer .container .flex_column.av_one_third:nth-child(2) {display: flex; align-content: center; flex-direction: column; align-items: center; justify-content: center; }
-
-div#footer .container .flex_column.av_one_third:nth-child(2):before,div#footer .container .flex_column.av_one_third:nth-child(2):after {display: none; }
-
-div#footer .container .flex_column.av_one_third:nth-child(2) section {margin: 0; }
-
-div#footer .container .flex_column.av_one_third:nth-child(2) section .footer_icon {text-align: center; }
-
-div#footer .container .flex_column.av_one_third:nth-child(2) section .footer_icon img {display: block; margin: auto; width: auto; height: 23px; margin-bottom: 8px; }
-
-div#footer .container .flex_column.av_one_third:nth-child(2) section .footer_icon  a {font-weight: bold; font-size: 17px; display: block; padding: 0; }
-
-div#footer .container .flex_column.av_one_third:nth-child(2) section .footer_icon:not(:last-child) {margin: 0 0 30px 0; }
-
-div#footer .container .flex_column.av_one_third:nth-child(2) section.widget_media_image {margin: 0 0 30px 0; }
 
 div#footer h3.widgettitle {text-transform: none !important; font-weight: bold !important; margin: 0 0 30px 0; color: #0086d4 !important; }
 
@@ -1157,14 +1141,12 @@ body .av-special-heading .av-special-heading-tag {float: none;}
 
 .testimonial--fullwidth--section .avia-testimonial-wrapper .avia-testimonial-content .testi_content > p strong {color: #0085d4 !important; }
 
-.testimonial--fullwidth--section .avia-testimonial-wrapper .avia-testimonial-content .testi_content:before {content: "";position: absolute;background: url(http://brad-mg.local/wp-content/uploads/2020/05/Path-30.png);background-repeat: no-repeat;width: 100px;height: 100px;background-size: 90px;z-index: -1;top: -11px;left: -30px;}
+.testimonial--fullwidth--section .avia-testimonial-wrapper .avia-testimonial-content .testi_content:before {content: "";position: absolute;background: url("/wp-content/uploads/2020/05/Path-30.png");background-repeat: no-repeat;width: 100px;height: 100px;background-size: 90px;z-index: -1;top: -11px;left: -30px;}
 
 .testimonial--fullwidth--section .avia-testimonial-wrapper .avia-testimonial-content .testi_content strong.avia-testimonial-name {
     margin: 0 0 0 0 !important; font-style: italic; font-size: 24px !important; line-height: normal !important; font-weight: 700 !important; }
 
 .testimonial--fullwidth--section .entry-content-wrapper {padding: 220px 0;}
-
-.testimonial--fullwidth--section .avia-button-wrap {max-width: 900px; margin: auto; text-align: left; margin-left:387px; margin-top: 50px; }
 
 .testimonial--fullwidth--section .avia-testimonial-wrapper .avia-slideshow-arrows {position: absolute !important;display: flex;margin:44px 0 0 640px;}
 
@@ -1249,7 +1231,7 @@ body .av-special-heading .av-special-heading-tag {float: none;}
 
 .big--small-menu--section .twopart--column h4 {position: relative; padding: 0 0 0 33px; margin: 0 0 10px 0; }
 
-.big--small-menu--section .twopart--column h4:before {content: "";position: absolute;left: 0;background: url(http://brad-mg.local/wp-content/uploads/2020/05/trajectory.png);width: 37px;height: 30px;background-size: 20px;background-repeat: no-repeat;top: 0;background-position: center left;}
+.big--small-menu--section .twopart--column h4:before {content: "";position: absolute;left: 0;background: url("/wp-content/uploads/2020/05/trajectory.png");width: 37px;height: 30px;background-size: 20px;background-repeat: no-repeat;top: 0;background-position: center left;}
 
 .big--small-menu--section .twopart--column section.av_textblock_section {width: 45%;
 }
@@ -1270,7 +1252,7 @@ body .av-special-heading .av-special-heading-tag {float: none;}
 
 .testimonial--more--videos--section .heading-author--content {position: relative; }
 
-.testimonial--more--videos--section .heading-author--content:before {content: "";position: absolute;left: -20px;background: url(http://brad-mg.local/wp-content/uploads/2020/05/Path-38.png);width: 100px;height: 70px;background-size: 80px;background-repeat: no-repeat;top: -9px;}
+.testimonial--more--videos--section .heading-author--content:before {content: "";position: absolute;left: -20px;background: url("/wp-content/uploads/2020/05/Path-38.png");width: 100px;height: 70px;background-size: 80px;background-repeat: no-repeat;top: -9px;}
 
 .testimonial--more--videos--section .flex_column:first-child .heading-author--content:before {left: auto; right: 0; transform: rotate(180deg); top: -20px; }
 
