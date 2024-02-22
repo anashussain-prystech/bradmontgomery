@@ -71,6 +71,7 @@ div#footer{
             flex-direction: column; 
             align-items: center; 
             justify-content: center; 
+            grid-gap: 25px;
             &:before, &:after {
                 display: none; 
             }
@@ -102,4 +103,17 @@ div#footer{
         }
     }
 } 
+
+.ul__content{
+    &.ul-icon{
+        ul{
+            li{
+                &:before{
+                    transform: translateY(-50%);
+                    top: 50%;
+                }
+            }
+        } 
+    } 
+}
 
