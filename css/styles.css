@@ -24,19 +24,19 @@ a:focus {
   order: 2;
 }
 
-.avia-testimonial .avia-testimonial_inner {
+.testimonial--fullwidth--section .avia-testimonial .avia-testimonial_inner {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.avia-testimonial .avia-testimonial_inner .avia-testimonial-meta .avia-testimonial-image {
+.testimonial--fullwidth--section .avia-testimonial .avia-testimonial_inner .avia-testimonial-meta .avia-testimonial-image {
   display: flex;
   justify-content: flex-end;
 }
-.avia-testimonial .avia-testimonial_inner .avia-testimonial-meta .avia-testimonial-image img {
+.testimonial--fullwidth--section .avia-testimonial .avia-testimonial_inner .avia-testimonial-meta .avia-testimonial-image img {
   width: auto;
 }
-.avia-testimonial .avia-testimonial_inner .avia-testimonial-content .avia-testimonial-markup-entry-content p {
+.testimonial--fullwidth--section .avia-testimonial .avia-testimonial_inner .avia-testimonial-content .avia-testimonial-markup-entry-content p {
   font-size: 30px !important;
 }
 
@@ -89,6 +89,43 @@ div#footer .container .flex_column section .footer_icon.widget_media_image {
 .ul__content.ul-icon ul li:before {
   transform: translateY(-50%);
   top: 50%;
+}
+
+.usairforce--full-section .entry-content-wrapper .overlay-image {
+  position: static;
+}
+.usairforce--full-section .entry-content-wrapper .av-special-heading {
+  margin: 0 0 30px 0;
+}
+
+.innerpage--heading-title-section p {
+  margin-top: 40px;
+}
+
+.testimonial--more--videos--section a.avia-button {
+  background: #fff;
+  color: #000;
+  margin: 20px 0 0 0;
+  transition: 0.5s;
+}
+.testimonial--more--videos--section a.avia-button:hover {
+  background-color: #dff3ff !important;
+  color: #000 !important;
+}
+.testimonial--more--videos--section a.avia-button:hover * {
+  color: #000 !important;
+}
+
+.planner--fullwidth--video--section .template-page h3 {
+  margin: 60px 0 60px 0;
+}
+
+#top .av-slideshow-ui.av-loop-endless .avia-slideshow-arrows > a {
+  display: none;
+}
+
+.full-width-image--text--section .template-page.content .entry-content-wrapper .testimonial_content .avia-button-wrap {
+  margin-top: 40px;
 }
 
 /*# sourceMappingURL=styles.css.map */
